@@ -65,40 +65,40 @@ education:
       Grade: First class honors
 work:
 - position: Postdoctoral research fellow
-    company_name: Department of Econometrics and Business Statistics, Monash University, Melbourne, Australia.
-    date_start: 2024-09-01
-    date_end: ''
-    summary: |2-
-      - My research concentrates on developing statistical models for the analysis of time dependent, compositional and/or spatial data. I am also working in working in forecast reconciliation for compositional data with Bayesian statistical models. 
-      - Working under by [Prof David Frazier](https://dtfrazier.netlify.app/) and [Assoc. Prof Ole Maneesoonthorn] (https://sites.google.com/view/o-maneesoonthorn). 
+  company_name: Department of Econometrics and Business Statistics, Monash University, Melbourne, Australia.
+  date_start: 2024-09-01
+  date_end: ''
+  summary: |2-
+    - My research concentrates on developing statistical models for the analysis of time dependent, compositional and/or spatial data. I am also working in working in forecast reconciliation for compositional data with Bayesian statistical models. 
+    - Working under by [Prof David Frazier](https://dtfrazier.netlify.app/) and [Assoc. Prof Ole Maneesoonthorn] (https://sites.google.com/view/o-maneesoonthorn). 
 - position: Postdoctoral research fellow
-    company_name: Department of Computer Science and Statistics, Trinity College, Dublin, Ireland.
-    date_start: 2023-09-01
-    date_end: '2024-07-01'
-    summary: |2-
-      - I was a Postdoctoral research fellow as part of the ADAPT SFI Research Centre for AI-Driven Digital Content Technology. There, I worked on the LegacyNet project and the LegumeLegacy Doctoral Network.
-      - My research concentrated on the statistical analysis of spatial and temporal trends in multi-species grassland mixtures.
+  company_name: Department of Computer Science and Statistics, Trinity College, Dublin, Ireland.
+  date_start: 2023-09-01
+  date_end: '2024-07-01'
+  summary: |2-
+    - I was a Postdoctoral research fellow as part of the ADAPT SFI Research Centre for AI-Driven Digital Content Technology. There, I worked on the LegacyNet project and the LegumeLegacy Doctoral Network.
+    - My research concentrated on the statistical analysis of spatial and temporal trends in multi-species grassland mixtures.
 - position: Lecturer
-    company_name: Department of Computer Science and Statistics, Trinity College, Dublin, Ireland.
-    date_start: 2023-09-01
-    date_end: '2024-07-01'
-    summary: |2-
-      - Statistical Analysis I: Involved writing and providing lectures, online assessment materials and examinations for an undergraduate level course on statistical analysis.
+  company_name: Department of Computer Science and Statistics, Trinity College, Dublin, Ireland.
+  date_start: 2023-09-01
+  date_end: '2024-07-01'
+  summary: |2-
+    - Statistical Analysis I: Involved writing and providing lectures, online assessment materials and examinations for an undergraduate level course on statistical analysis.
 - position: Assistant copy editor
-    company_name: R journal
-    date_start: 2021-09-01
-    date_end: '2023-09-01'
+  company_name: R journal
+  date_start: 2021-09-01
+  date_end: '2023-09-01'
 - position: Tutor
-    company_name: Department of Mathematics and Statistics, Maynooth University, Ireland.
-    date_start: 2020-09-01
-    date_end: '2022-07-01'
-    summary: |2-
-      - I was the primary tutor for the non-parametric statistics, data analysis and Bayesian analysis courses.
-      - I assisted in the facilitation of Data Analytics Master’s thesis projects in 2021.
+  company_name: Department of Mathematics and Statistics, Maynooth University, Ireland.
+  date_start: 2020-09-01
+  date_end: '2022-07-01'
+  summary: |2-
+    - I was the primary tutor for the non-parametric statistics, data analysis and Bayesian analysis courses.
+    - I assisted in the facilitation of Data Analytics Master’s thesis projects in 2021.
 - position: Data Analyst
-    company_name: EY
-    date_start: 2018-09-01
-    date_end: '2019-08-01'
+  company_name: EY
+  date_start: 2018-09-01
+  date_end: '2019-08-01'
  
  ---
 
