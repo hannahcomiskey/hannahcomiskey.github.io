@@ -22,7 +22,7 @@ abstract: Quantifying the public/private-sector supply of contraceptive methods 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

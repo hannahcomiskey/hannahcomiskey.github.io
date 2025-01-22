@@ -99,11 +99,40 @@ work:
     company_name: EY
     date_start: '2018-09-01'
     date_end: '2019-08-01'
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Introduction to Scientific Computing
+    date: '2019-09-01'
+    awarder: University of Limerick
+  - title: Introduction to Deep Learning and Frameworks
+    date: '2019-09-01'
+    awarder: University of Limerick
+  - title: R-INLA Workshop
+    date: '2022-07-01'
+    awarder: Valencia International Bayesian Analysis Summer School, VIBASS5 2022.
+  - title: 'Bayesian Data Analysis'
+    url: https://avehtari.github.io/BDA_course_Aalto/
+    date: '2019-09-01'
+  - title: 'Professional Certificate in Teaching and Learning'
+    url: https://www.maynoothuniversity.ie/centre-teaching-and-learning/accredited-programmes/professional-certificate-teaching-and-learning
+    date: '2020-09-01'
+
 ---
 
 ## About Me
 
 I am an applied statistician specializing in the development of statistical models for time-dependent, compositional, and spatial data. My research focuses on creating models that effectively analyse these complex datasets. Previously, I developed statistical indicators using family planning and agronomic data. My expertise lies in Bayesian modelling techniques, which leverage hierarchical structures to facilitate information exchange across populations, quantify parameter uncertainty, and integrate prior knowledge into statistical frameworks.
-Currently, I am a Postdoctoral Research Fellow in the Department of Econometrics and Business Statistics under Prof David Fraizer and Assoc. Prof. Ole Maneesoonthorn at Monash University, Melbourne, Australia. My work here involves applying Bayesian statistical models to forecast reconciliation for compositional data. I completed my PhD at Maynooth University under the supervision of Prof. Niamh Cahill, supported by the SFI Centre for Research Training in Foundations of Data Science. During this time, I also led an undergraduate statistics module at Trinity College Dublin and tutored undergraduate and postgraduate statistics courses, both online and in person.
-In addition to my academic experience, I have an extensive background in teaching mathematics. For eight years, I tutored second-level mathematics to Junior and Leaving Certificate students at both higher and ordinary levels. I have also earned a Professional Certificate in Teaching and Learning from Maynooth University. Before pursuing my PhD, I worked as an analyst in the Data Analytics department at EY Dublin
+Currently, I am a Postdoctoral Research Fellow in the Department of Econometrics and Business Statistics under Prof David Fraizer and Assoc. Prof. Ole Maneesoonthorn at Monash University, Melbourne, Australia. My work here involves applying Bayesian statistical models to forecast reconciliation for compositional data. I completed my PhD at Maynooth University under the supervision of Prof. Niamh Cahill, supported by the SFI Centre for Research Training in Foundations of Data Science. 
+In addition to my academic experience, I have an extensive background in teaching. I led an undergraduate statistics module at Trinity College Dublin and tutored undergraduate and postgraduate statistics courses, both online and in person. For eight years, I tutored second-level mathematics to Junior and Leaving Certificate students at both higher and ordinary levels. I have also earned a Professional Certificate in Teaching and Learning from Maynooth University. Before pursuing my PhD, I worked as an analyst in the Data Analytics department at EY Dublin
 
