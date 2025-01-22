@@ -16,3 +16,4 @@ featured: true
 image:
   caption: 'The LegacyNet Team 2024'
   focal_point: Right
+---
