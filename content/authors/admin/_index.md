@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Hannah Comiskey, PhD
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hannah
+last_name: Comiskey
 
 # Status emoji
 status:
@@ -20,167 +17,93 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Research Fellow, Statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Monash Univeristy
+    url: https://research.monash.edu/en/persons/hannah-comiskey
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'hannah.comiskey@monash.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/hannahcomiskey
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/hannah-comiskey-85a284130/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=J0Dvq2wAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-0034-6725
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian analysis
+  - Family planning
+  - Agronomy
+  - Statistical ecology
+  - Statistical demography
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Statistics
+    institution: Maynooth University
+    date_start: 2019-09-01
+    date_end: 2024-03-14
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      - My PhD concentrated on the development of statistical models to assess the contributions of the public and private sectors to the supply of modern contraceptives in low- and middle-income countries. 
+      - Supervised by [Prof Niamh Cahill](https://www.niamhcahill.com/) and [Prof Leontine Alkema] (https://leontinealkema.github.io/alkema_lab/). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://mural.maynoothuniversity.ie/view/ethesisauthor/Comiskey=3AHannah=3A=3A.html'
+  - area: BSc Biology and Statistics
+    institution: Maynooth Univeristy
+    date_start: 2014-09-01
+    date_end: 2018-09-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Grade: First class honors
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+- position: Postdoctoral research fellow
+    company_name: Department of Econometrics and Business Statistics, Monash University, Melbourne, Australia.
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+      - My research concentrates on developing statistical models for the analysis of time dependent, compositional and/or spatial data. I am also working in working in forecast reconciliation for compositional data with Bayesian statistical models. 
+      - Working under by [Prof David Frazier](https://dtfrazier.netlify.app/) and [Assoc. Prof Ole Maneesoonthorn] (https://sites.google.com/view/o-maneesoonthorn). 
+- position: Postdoctoral research fellow
+    company_name: Department of Computer Science and Statistics, Trinity College, Dublin, Ireland.
+    date_start: 2023-09-01
+    date_end: '2024-07-01'
+    summary: |2-
+      - I was a Postdoctoral research fellow as part of the ADAPT SFI Research Centre for AI-Driven Digital Content Technology. There, I worked on the LegacyNet project and the LegumeLegacy Doctoral Network.
+      - My research concentrated on the statistical analysis of spatial and temporal trends in multi-species grassland mixtures.
+- position: Lecturer
+    company_name: Department of Computer Science and Statistics, Trinity College, Dublin, Ireland.
+    date_start: 2023-09-01
+    date_end: '2024-07-01'
+    summary: |2-
+      - Statistical Analysis I: Involved writing and providing lectures, online assessment materials and examinations for an undergraduate level course on statistical analysis.
+- position: Assistant copy editor
+    company_name: R journal
+    date_start: 2021-09-01
+    date_end: '2023-09-01'
+- position: Tutor
+    company_name: Department of Mathematics and Statistics, Maynooth University, Ireland.
+    date_start: 2020-09-01
+    date_end: '2022-07-01'
+    summary: |2-
+      - I was the primary tutor for the non-parametric statistics, data analysis and Bayesian analysis courses.
+      - I assisted in the facilitation of Data Analytics Master’s thesis projects in 2021.
+- position: Data Analyst
+    company_name: EY
+    date_start: 2018-09-01
+    date_end: '2019-08-01'
+ 
+ ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an applied statistician specializing in the development of statistical models for time-dependent, compositional, and spatial data. My research focuses on creating models that effectively analyse these complex datasets. Previously, I developed statistical indicators using family planning and agronomic data. My expertise lies in Bayesian modelling techniques, which leverage hierarchical structures to facilitate information exchange across populations, quantify parameter uncertainty, and integrate prior knowledge into statistical frameworks.
+Currently, I am a Postdoctoral Research Fellow in the Department of Econometrics and Business Statistics under Prof David Fraizer and Assoc. Prof. Ole Maneesoonthorn at Monash University, Melbourne, Australia. My work here involves applying Bayesian statistical models to forecast reconciliation for compositional data. I completed my PhD at Maynooth University under the supervision of Prof. Niamh Cahill, supported by the SFI Centre for Research Training in Foundations of Data Science. During this time, I also led an undergraduate statistics module at Trinity College Dublin and tutored undergraduate and postgraduate statistics courses, both online and in person.
+In addition to my academic experience, I have an extensive background in teaching mathematics. For eight years, I tutored second-level mathematics to Junior and Leaving Certificate students at both higher and ordinary levels. I have also earned a Professional Certificate in Teaching and Learning from Maynooth University. Before pursuing my PhD, I worked as an analyst in the Data Analytics department at EY Dublin
