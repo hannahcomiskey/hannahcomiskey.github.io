@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'hannah.comiskey@monash.edu'
+    url: 'mailto:hannahcomiskey68@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/hannahcomiskey
