@@ -2,7 +2,9 @@
 title: Subnational estimation of contraceptive method supplies 
 
 event: Y-ISA annual meeting, Ireland. 2022.
+
 date: '2022-10-07'
+
 summary: Assessing the longevity and sustainability of modern contraceptive availability and supply
 relies on quantifying the contributions of the public and private sectors to the method supply
 chain. In recent years, subnational estimation of the contraceptive supply share (public vs
