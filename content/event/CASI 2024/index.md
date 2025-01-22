@@ -2,7 +2,7 @@
 title:  What drives changes in plant group proportions over time? An analysis from an international multi-site grassland experiment.
 
 event: Conference on Applied Statistics in Ireland (CASI) 2024
-event_url: https://casi.ie/2024/
+event_url: 'https://casi.ie/2024/'
 
 date: '2023-03-24'
 
@@ -16,7 +16,7 @@ authors:
   - Rafael Moral
   - Matthias Suter
   - Alistair Daniel Black
-  - Gaëtan Louarn
+  - Gaetan Louarn
   - Caroline Brophy
 
 # Is this a featured talk? (true/false)
