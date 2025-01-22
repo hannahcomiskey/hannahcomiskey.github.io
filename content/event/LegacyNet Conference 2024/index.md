@@ -1,5 +1,5 @@
 ---
-title:  Identifying the drivers of functional group and species-level dynamics over time in an international multi-site grassland experiment.
+title: Identifying the drivers of functional group and species-level dynamics over time in an international multi-site grassland experiment.
 
 event: LegacyNet conference 2024
 event_url: https://legacynet.scss.tcd.ie/events.php
