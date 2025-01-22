@@ -53,7 +53,7 @@ education:
     date_end: '2024-03-14'
     summary: |
       - My PhD concentrated on the development of statistical models to assess the contributions of the public and private sectors to the supply of modern contraceptives in low- and middle-income countries. 
-      - Supervised by [Prof Niamh Cahill](https://www.niamhcahill.com/) and [Prof Leontine Alkema] (https://leontinealkema.github.io/alkema_lab/). 
+      - Supervised by [Prof Niamh Cahill](https://www.niamhcahill.com/) and [Prof Leontine Alkema](https://leontinealkema.github.io/alkema_lab/). 
     button:
       text: 'Read Thesis'
       url: 'https://mural.maynoothuniversity.ie/view/ethesisauthor/Comiskey=3AHannah=3A=3A.html'
