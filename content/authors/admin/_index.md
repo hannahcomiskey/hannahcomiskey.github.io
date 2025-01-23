@@ -76,7 +76,7 @@ work:
     date_start: '2023-09-01'
     date_end: '2024-07-01'
     summary: |2-
-      - I was a Postdoctoral research fellow as part of the ADAPT SFI Research Centre for AI-Driven Digital Content Technology. There, I worked on the LegacyNet project and the LegumeLegacy Doctoral Network.
+      - I was a Postdoctoral research fellow under [Prof Caroline Brophy](https://www.scss.tcd.ie/caroline.brophy/) as part of the ADAPT SFI Research Centre for AI-Driven Digital Content Technology. There, I worked on the LegacyNet project and the LegumeLegacy Doctoral Network.
       - My research concentrated on the statistical analysis of spatial and temporal trends in multi-species grassland mixtures.
   - position: Lecturer
     company_name: Department of Computer Science and Statistics, Trinity College, Dublin, Ireland.
