@@ -70,7 +70,7 @@ work:
     date_end: ''
     summary: |2-
       - My research concentrates on developing statistical models for the analysis of time dependent, compositional and/or spatial data. I am also working in working in forecast reconciliation for compositional data with Bayesian statistical models. 
-      - Working under by [Prof David Frazier](https://dtfrazier.netlify.app/) and [Assoc. Prof Ole Maneesoonthorn] (https://sites.google.com/view/o-maneesoonthorn). 
+      - Working under by [Prof David Frazier](https://dtfrazier.netlify.app/) and [Assoc. Prof Ole Maneesoonthorn](https://sites.google.com/view/o-maneesoonthorn). 
   - position: Postdoctoral research fellow
     company_name: Department of Computer Science and Statistics, Trinity College, Dublin, Ireland.
     date_start: '2023-09-01'
