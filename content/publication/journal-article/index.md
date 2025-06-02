@@ -38,7 +38,6 @@ url_video: ''
 
 ---
 
----
 title: "mcmsupply: An R Package for Estimating Contraceptive Method Market Supply Shares"
 authors:
 - Hannah Comiskey
