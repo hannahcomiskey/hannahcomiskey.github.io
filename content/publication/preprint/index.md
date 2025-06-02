@@ -3,8 +3,8 @@ title: "mcmsupply: An R Package for Estimating Contraceptive Method Market Suppl
 authors:
 - Hannah Comiskey
 - Niamh Cahill
-date: "2023-08-18T00:00:00Z"
-doi: "https://arxiv.org/abs/2308.09434"
+date: "2025-06-01T00:00:00Z"
+doi: "10.32614/RJ-2024-020"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -26,7 +26,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://arxiv.org/abs/2308.09434
+url_pdf: https://journal.r-project.org/articles/RJ-2024-020/
 url_code: ''
 
 # Featured image
