@@ -31,6 +31,12 @@ jobs:
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+    - name: Dummy upload-artifact step to preload action
+      uses: actions/upload-artifact@v3
+      with:
+        name: dummy
+        path: README.md  # Or any small file that exists
+        if-no-files-found: ignore
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
