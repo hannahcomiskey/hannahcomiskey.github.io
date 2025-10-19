@@ -17,4 +17,8 @@ authors:
 
 # Is this a featured talk? (true/false)
 featured: true
+
+image:
+  caption: 'Presenting at IWSM 2025'
+  focal_point: Right
 ---
