@@ -25,10 +25,18 @@ abstract: |
 
 tags:
   - Subnational
+
 featured: true
 
 links:
-  url_pdf: "https://arxiv.org/search/stat?searchtype=author&query=Comiskey,+H"
-  url_code: ""
+  - name: "PDF"
+    url: "https://arxiv.org/search/stat?searchtype=author&query=Comiskey,+H"
+    icon_pack: "fas"
+    icon: "file-pdf"
+  - name: "Code"
+    url: "https://github.com/hannahcomiskey/subnational_estimates"
+    icon_pack: "fab"
+    icon: "github"
+    
 ---
 
