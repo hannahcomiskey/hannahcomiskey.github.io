@@ -1,4 +1,4 @@
-
+---
 title: "Bayesian probabilistic projections of proportions with limited data: An application to subnational contraceptive method supply shares"
 authors:
 - Hannah Comiskey
